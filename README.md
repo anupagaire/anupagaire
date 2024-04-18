@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python,Javascript.**
 
-- 👨‍💻 All of my projects are available at [www.anupagaire.com.np](www.anupagaire.com.np)
+- 👨‍💻 All of my projects are available at [https://www.anupagaire.com.np/](https://www.anupagaire.com.np/)
 
 - 📫 How to reach me **aanupa.gaire@gmail.com**
 
