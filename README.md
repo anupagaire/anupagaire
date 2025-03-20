@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anupa Gaire</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupagaire&label=Profile%20views&color=0e75b6&style=flat" alt="anupagaire" /> </p>
 
-- 🌱 I’m currently learning **Python,Javascript.**
+
 
 - 👨‍💻 All of my projects are available at [https://www.anupagaire.com.np/](https://www.anupagaire.com.np/)
 
