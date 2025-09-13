@@ -1,32 +1,140 @@
-<h1 align="center">Hi 👋, I'm Anupa Gaire</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupagaire&label=Profile%20views&color=0e75b6&style=flat" alt="anupagaire" /> </p>
+# Hi there! 👋 I'm Anupa Gaire
+
+<div align="center">
+  <h3>Computer Engineering Graduate</h3>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anupagaire&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</div>
+
+# 🌟 Portfolio & Contact
+
+### 🚀 Portfolio
+[🌐 anupagaire.com.np](https://www.anupagaire.com.np)
+
+### ✉️ Email
+[aanupa.gaire@gmail.com](mailto:aanupa.gaire@gmail.com)
+
+### 🤝 Follow Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/anupagaire)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupagaire)
 
 
 
-- 👨‍💻 All of my projects are available at [https://www.anupagaire.com.np/](https://www.anupagaire.com.np/)
+## 🚀 About Me
 
-- 📫 How to reach me **aanupa.gaire@gmail.com**
+🎓 **Computer Engineering Graduate** passionate about creating innovative solutions  
+🌱 Currently mastering the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+💡 Love turning ideas into reality through code  
+🔭 Working on building full-stack web applications  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/anupagaire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupagaire" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
- <a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
-  </a></p>
+## 🎯 Current Focus
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupagaire&show_icons=true&locale=en&layout=compact" alt="anupagaire" /></p>
+🔥 **Learning:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+🚀 **Building:** Full Stack Web Applications  
+🎯 **Goal:** Create Production Ready Applications & Contribute to Open Source  
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupagaire&show_icons=true&locale=en" alt="anupagaire" /></p>
+## 🛠️ Tech Stack & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupagaire&" alt="anupagaire" /></p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
+<br>Photoshop
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
+<br>Canva
+</td>
+<td align="center" width="96">
+</td>
+<td align="center" width="96">
+</td>
+<td align="center" width="96">
+</td>
+</tr>
+</table>
+
+
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupagaire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupagaire&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupagaire&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
