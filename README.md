@@ -1,41 +1,50 @@
-# Hi there! 👋 I'm Anupa Gaire
+# 👋 Hi, I'm **Anupa Gaire**
+
+**Computer Engineering Graduate | MERN Stack Developer | UI/UX Enthusiast**
 
 <div align="center">
-  <h3>Computer Engineering Graduate</h3>
+  <img src="https://komarev.com/ghpvc/?username=anupagaire&label=Profile%20Views&color=blue&style=for-the-badge" />
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anupagaire&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</div>
-
-# 🌟 Portfolio & Contact
-
-### 🚀 Portfolio
-[🌐 anupagaire.com.np](https://www.anupagaire.com.np)
-
-### ✉️ Email
-[aanupa.gaire@gmail.com](mailto:aanupa.gaire@gmail.com)
-
-### 🤝 Follow Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/anupagaire)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupagaire)
-
-
-
-## 🚀 About Me
-
-🎓 **Computer Engineering Graduate** passionate about creating innovative solutions  
-🌱 Currently mastering the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
-💡 Love turning ideas into reality through code  
-🔭 Working on building full-stack web applications  
 
 ---
 
-## 🎯 Current Focus
+##  About Me
 
-🔥 **Learning:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-🚀 **Building:** Full Stack Web Applications  
-🎯 **Goal:** Create Production Ready Applications & Contribute to Open Source  
+I’m a passionate **Frontend & MERN Stack Developer** who loves building clean, modern, and user-centered web applications.  
+I enjoy converting designs into smooth, responsive experiences and developing full-stack projects that feel production-ready.
 
+🔗 **Portfolio:** https://anupagaire.com.np  
+📧 **Email:** aanupa.gaire@gmail.com  
+📱 **Instagram:** https://instagram.com/anupagaire  
+💼 **LinkedIn:** https://linkedin.com/in/anupagaire  
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, Next.js, JavaScript, Tailwind CSS, HTML5, CSS3  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, Figma, VS Code  
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=anupagaire&show_icons=true&theme=radical" height="170" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupagaire&layout=compact&theme=radical" height="170" />
+
+</div>
 
 ---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupagaire&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
 
