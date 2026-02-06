@@ -1,14 +1,13 @@
-# 👋 Hi, I'm **Anupa Gaire**
+<h1 align="center">👋 Hi, I'm <b>Anupa Gaire</b></h1>
 
-**Computer Engineering Graduate | MERN Stack Developer | UI/UX Enthusiast**
+<p align="center">
+  <b>Computer Engineering Graduate</b> · MERN Stack Developer · UI/UX Enthusiast
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anupagaire&label=Profile%20Views&color=blue&style=for-the-badge" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anupagaire&color=1f6feb&style=flat" />
+</p>
 
----
-
-##  About Me
 
 I’m a passionate **Frontend & MERN Stack Developer** who loves building clean, modern, and user-centered web applications.  
 I enjoy converting designs into smooth, responsive experiences and developing full-stack projects that feel production-ready.
@@ -25,25 +24,18 @@ I enjoy converting designs into smooth, responsive experiences and developing fu
 **Database:** MongoDB  
 **Tools:** Git, GitHub, Figma, VS Code  
 
-## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anupagaire&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anupagaire&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupagaire&layout=compact&theme=tokyonight" height="170" />
+</p>
 
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anupagaire&show_icons=true&theme=radical" height="170" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupagaire&layout=compact&theme=radical" height="170" />
 
-</div>
 
 ---
 
-## 🔥 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupagaire&theme=react-dark&hide_border=true" />
-</div>
 
 ---
 
